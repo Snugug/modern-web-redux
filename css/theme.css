@@ -4,7 +4,7 @@
 @import url(http://snugug.github.io/fonts/scp.css);
 @import url(http://snugug.github.io/fonts/pt.css);
 
-.reveal a {
+.cs a {
   color: inherit;
   text-decoration: none;
   text-decoration: none;
@@ -31,6 +31,7 @@
 }
 /* line 90, ../sass/theme.scss */
 .north .reveal a {
+  color: inherit;
   text-decoration: none;
   background-repeat: repeat-x;
   background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjUwJSIgeTE9IjEwMCUiIHgyPSI1MCUiIHkyPSIwJSI+PHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiNmN2ZhZmMiLz48c3RvcCBvZmZzZXQ9Ijc1JSIgc3RvcC1jb2xvcj0iIzA2MWIyNSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
@@ -57,11 +58,6 @@
 .reveal a.north--link {
   background: none;
   text-shadow: none;
-}
-/* line 110, ../sass/theme.scss */
-.reveal h1:not(.north), .reveal h2:not(.north), .reveal h3:not(.north), .reveal h4:not(.north), .reveal h5:not(.north) {
-  font-family: 'ostrich';
-  letter-spacing: .1em;
 }
 /* line 115, ../sass/theme.scss */
 .reveal h1 a, .reveal h2 a, .reveal h3 a, .reveal h4 a, .reveal h5 a {
@@ -309,4 +305,5 @@ h1 a.wordmark .wordmark--4 {
 
 .cs h4 {
   font-size: 1em;
+  margin-top: -1.5em;
 }
