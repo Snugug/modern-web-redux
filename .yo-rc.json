@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Designing the Modern Web, Redux",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "Snugug",
+    "githubRepository": "modern-web-redux"
+  }
+}
