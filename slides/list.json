@@ -1,1 +1,188 @@
-["index.md"]
+[
+  "index.md",
+
+  {
+    "filename": "dao/intro.md",
+    "attr": {
+      "id": "dao",
+      "data-source": "http://alistapart.com/article/dao"
+    }
+  },
+
+  [
+    {
+      "filename": "dao/ritual/intro.md",
+        "attr": {
+          "id": "ritual"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/dao.html",
+        "attr": {
+          "id": "tao-ritual"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/before-time.html",
+        "attr": {
+          "id": "before-time"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/borrowing.html",
+        "attr": {
+          "id": "borrowing"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/howdy-doody.html",
+        "attr": {
+          "id": "howdy-doody"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/mtv.html",
+        "attr": {
+          "id": "mtv"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/video-killed-the-radio-star.html",
+        "attr": {
+          "id": "video-killed-the-radio-star"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/cast-off-old.md",
+        "attr": {
+          "id": "cast-off-old"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/tv-evolved.md",
+        "attr": {
+          "id": "tv-evolved"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/community.html",
+        "attr": {
+          "id": "community"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/mtv-evolved.md",
+        "attr": {
+          "id": "mtv-evolved"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/sabotage.html",
+        "attr": {
+          "id": "sabotage"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/web-evolved.html",
+        "attr": {
+          "id": "web-evolved"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "dao/control/intro.md",
+        "attr": {
+          "id": "control"
+      }
+    }
+    ,{
+      "filename": "dao/control/tao-control.html",
+        "attr": {
+          "id": "tao-control"
+      }
+    }
+    ,{
+      "filename": "dao/control/print-is-totally-fixed.html",
+        "attr": {
+          "id": "print-is-totally-fixed"
+      }
+    }
+    ,{
+      "filename": "dao/control/laser-printer.html",
+        "attr": {
+          "id": "laser-printer"
+      }
+    }
+    ,{
+      "filename": "dao/control/print-limitations.html",
+        "attr": {
+          "id": "print-limitations"
+      }
+    }
+    ,{
+      "filename": "dao/control/web-strength.html",
+        "attr": {
+          "id": "web-strength"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "dao/the-way/intro.md",
+        "attr": {
+          "id": "the-way"
+      }
+    }
+    ,{
+      "filename": "dao/the-way/tao-shapes.html",
+        "attr": {
+          "id": "tao-shapes"
+      }
+    }
+    ,{
+      "filename": "dao/the-way/form-over-function.html",
+        "attr": {
+          "id": "form-over-function"
+      }
+    }
+    ,{
+      "filename": "dao/the-way/mazlow-needs.md",
+        "attr": {
+          "id": "mazlow-needs"
+      }
+    }
+    ,{
+      "filename": "dao/the-way/website-needs.md",
+        "attr": {
+          "id": "website-needs"
+      }
+    }
+    ,{
+      "filename": "dao/the-way/needs-redux.html",
+        "attr": {
+          "id": "needs-redux"
+      }
+    }
+    ,{
+      "filename": "dao/the-way/flair.md",
+        "attr": {
+          "id": "flair"
+      }
+    }
+    ,{
+      "filename": "dao/the-way/nega-flair.md",
+        "attr": {
+          "id": "nega-flair"
+      }
+    }
+    ,{
+      "filename": "dao/the-way/design-flow.html",
+        "attr": {
+          "id": "design-flow"
+      }
+    }
+  ]
+]
