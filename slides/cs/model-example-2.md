@@ -1,0 +1,1 @@
+![Content Model Benefits Example](http://snugug.github.io/images/model-benefits.png)

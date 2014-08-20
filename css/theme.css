@@ -1,0 +1,312 @@
+@import url(http://snugug.github.io/fonts/homestead-subset.css);
+@import url(http://snugug.github.io/fonts/north.css);
+@import url(http://snugug.github.io/fonts/ostrich.css);
+@import url(http://snugug.github.io/fonts/scp.css);
+@import url(http://snugug.github.io/fonts/pt.css);
+
+.reveal a {
+  color: inherit;
+  text-decoration: none;
+  text-decoration: none;
+  background-repeat: repeat-x;
+  background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjUwJSIgeTE9IjEwMCUiIHgyPSI1MCUiIHkyPSIwJSI+PHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiNmZWRlMzIiLz48c3RvcCBvZmZzZXQ9Ijc1JSIgc3RvcC1jb2xvcj0iIzNjM2MzYyIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+  background-size: 100%;
+  background-image: -webkit-linear-gradient(bottom, #fede32 75%, #3c3c3c 75%);
+  background-image: linear-gradient(to top, #fede32 75%, #3c3c3c 75%);
+  background-size: 0.125em 0.1875em;
+  background-position: 0 1.125em;
+  text-shadow: 0.0625em 0.0625em 0 #fede32, -0.0625em 0 0 #fede32;
+}
+/* line 86, ../sass/theme.scss */
+.intro .reveal a {
+  text-decoration: none;
+  background-repeat: repeat-x;
+  background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjUwJSIgeTE9IjEwMCUiIHgyPSI1MCUiIHkyPSIwJSI+PHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiMwMDAwMDAiLz48c3RvcCBvZmZzZXQ9Ijc1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+  background-size: 100%;
+  background-image: -webkit-linear-gradient(bottom, #000000 75%, #ffffff 75%);
+  background-image: linear-gradient(to top, #000000 75%, #ffffff 75%);
+  background-size: 0.125em 0.1875em;
+  background-position: 0 1.125em;
+  text-shadow: 0.0625em 0.0625em 0 black, -0.0625em 0 0 black;
+}
+/* line 90, ../sass/theme.scss */
+.north .reveal a {
+  text-decoration: none;
+  background-repeat: repeat-x;
+  background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjUwJSIgeTE9IjEwMCUiIHgyPSI1MCUiIHkyPSIwJSI+PHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiNmN2ZhZmMiLz48c3RvcCBvZmZzZXQ9Ijc1JSIgc3RvcC1jb2xvcj0iIzA2MWIyNSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+  background-size: 100%;
+  background-image: -webkit-linear-gradient(bottom, #f7fafc 75%, #061b25 75%);
+  background-image: linear-gradient(to top, #f7fafc 75%, #061b25 75%);
+  background-size: 0.125em 0.1875em;
+  background-position: 0 1.125em;
+  text-shadow: 0.0625em 0.0625em 0 #f7fafc, -0.0625em 0 0 #f7fafc;
+}
+/* line 94, ../sass/theme.scss */
+.domain .reveal a {
+  text-decoration: none;
+  background-repeat: repeat-x;
+  background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjUwJSIgeTE9IjEwMCUiIHgyPSI1MCUiIHkyPSIwJSI+PHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiM5N2U1MmQiLz48c3RvcCBvZmZzZXQ9Ijc1JSIgc3RvcC1jb2xvcj0iIzA2MWIyNSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+  background-size: 100%;
+  background-image: -webkit-linear-gradient(bottom, #97e52d 75%, #061b25 75%);
+  background-image: linear-gradient(to top, #97e52d 75%, #061b25 75%);
+  background-size: 0.125em 0.1875em;
+  background-position: 0 1.125em;
+  text-shadow: 0.0625em 0.0625em 0 #97e52d, -0.0625em 0 0 #97e52d;
+}
+/* line 98, ../sass/theme.scss */
+.reveal a.north--link {
+  background: none;
+  text-shadow: none;
+}
+/* line 110, ../sass/theme.scss */
+.reveal h1:not(.north), .reveal h2:not(.north), .reveal h3:not(.north), .reveal h4:not(.north), .reveal h5:not(.north) {
+  font-family: 'ostrich';
+  letter-spacing: .1em;
+}
+/* line 115, ../sass/theme.scss */
+.reveal h1 a, .reveal h2 a, .reveal h3 a, .reveal h4 a, .reveal h5 a {
+  background-position: 0 0.825em !important;
+}
+/* line 120, ../sass/theme.scss */
+.reveal pre,
+.reveal code {
+  font-family: 'scp' monospace;
+  font-size: 1em;
+}
+/* line 124, ../sass/theme.scss */
+.reveal pre.codemark,
+.reveal code.codemark {
+  box-shadow: none;
+  font-size: .55em;
+  padding-top: 1em;
+}
+
+.reveal .codemark {
+  padding: .5em;
+  background: #3F3F3F;
+  color: #DCDCDC;
+  font-family: 'scp' monospace;
+  font-size: 2em;
+  line-height: 1.4em;
+  text-align: left;
+}
+
+/* line 147, ../sass/theme.scss */
+.reveal .controls div.navigate-left {
+  border-right-color: #3c3c3c;
+}
+/* line 151, ../sass/theme.scss */
+.intro .reveal .controls div.navigate-left {
+  border-right-color: white;
+}
+/* line 151, ../sass/theme.scss */
+.north .reveal .controls div.navigate-left {
+  border-right-color: #061b25;
+}
+/* line 151, ../sass/theme.scss */
+.cs .reveal .controls div.navigate-left {
+  border-right-color: #3c3c3c;
+}
+/* line 151, ../sass/theme.scss */
+.domain .reveal .controls div.navigate-left {
+  border-right-color: #97e52d;
+}
+/* line 147, ../sass/theme.scss */
+.reveal .controls div.navigate-right {
+  border-left-color: #3c3c3c;
+}
+/* line 151, ../sass/theme.scss */
+.intro .reveal .controls div.navigate-right {
+  border-left-color: white;
+}
+/* line 151, ../sass/theme.scss */
+.north .reveal .controls div.navigate-right {
+  border-left-color: #061b25;
+}
+/* line 151, ../sass/theme.scss */
+.cs .reveal .controls div.navigate-right {
+  border-left-color: #3c3c3c;
+}
+/* line 151, ../sass/theme.scss */
+.domain .reveal .controls div.navigate-right {
+  border-left-color: #97e52d;
+}
+/* line 147, ../sass/theme.scss */
+.reveal .controls div.navigate-up {
+  border-bottom-color: #3c3c3c;
+}
+/* line 151, ../sass/theme.scss */
+.intro .reveal .controls div.navigate-up {
+  border-bottom-color: white;
+}
+/* line 151, ../sass/theme.scss */
+.north .reveal .controls div.navigate-up {
+  border-bottom-color: #061b25;
+}
+/* line 151, ../sass/theme.scss */
+.cs .reveal .controls div.navigate-up {
+  border-bottom-color: #3c3c3c;
+}
+/* line 151, ../sass/theme.scss */
+.domain .reveal .controls div.navigate-up {
+  border-bottom-color: #97e52d;
+}
+/* line 147, ../sass/theme.scss */
+.reveal .controls div.navigate-down {
+  border-top-color: #3c3c3c;
+}
+/* line 151, ../sass/theme.scss */
+.intro .reveal .controls div.navigate-down {
+  border-top-color: white;
+}
+/* line 151, ../sass/theme.scss */
+.north .reveal .controls div.navigate-down {
+  border-top-color: #061b25;
+}
+/* line 151, ../sass/theme.scss */
+.cs .reveal .controls div.navigate-down {
+  border-top-color: #3c3c3c;
+}
+/* line 151, ../sass/theme.scss */
+.domain .reveal .controls div.navigate-down {
+  border-top-color: #97e52d;
+}
+
+/* line 160, ../sass/theme.scss */
+.intro .state-background {
+  background: black;
+}
+/* line 163, ../sass/theme.scss */
+.north .state-background {
+  background: #f7fafc;
+}
+/* line 166, ../sass/theme.scss */
+.cs .state-background {
+  background: #fede32;
+}
+/* line 169, ../sass/theme.scss */
+.domain .state-background {
+  background: #97e52d;
+}
+
+/* line 174, ../sass/theme.scss */
+.intro {
+  color: white;
+}
+
+/* line 178, ../sass/theme.scss */
+.cs,
+.tools {
+  color: #3c3c3c;
+}
+
+/* line 206, ../sass/theme.scss */
+.reveal .north--logo, .reveal .north--wordmark {
+  -webkit-font-feature-settings: "liga","dlig";
+  -moz-font-feature-settings: "liga=1, dlig=1";
+  -moz-font-feature-settings: "liga","dlig";
+  -ms-font-feature-settings: "liga","dlig";
+  -o-font-feature-settings: "liga","dlig";
+  font-feature-settings: "liga","dlig";
+  color: #11517d;
+  font-family: 'north';
+  text-transform: lowercase;
+  display: inline-block;
+  border: none;
+}
+/* line 217, ../sass/theme.scss */
+.north,
+.north blockquote {
+  color: #061b25;
+  font-family: 'pt';
+  border-right-color: inherit;
+}
+
+.north blockquote,
+.cs blockquote {
+  border-color: inherit;
+  font-size: 1.5em;
+}
+
+/* line 222, ../sass/theme.scss */
+.reveal .north--title {
+  font-size: 7em;
+}
+/* line 225, ../sass/theme.scss */
+.reveal .north--title .north--wordmark {
+  font-size: .75em;
+}
+/* line 230, ../sass/theme.scss */
+.reveal .north--logo {
+  padding-right: .16em;
+  font-style: normal;
+  -ms-transform: translateY(0.1194em);
+  -webkit-transform: translateY(0.1194em);
+  transform: translateY(0.1194em);
+}
+/* line 237, ../sass/theme.scss */
+.reveal .north--wordmark {
+  font-style: normal;
+  color: #5ea9d0;
+  text-transform: uppercase;
+  position: relative;
+  text-align: left;
+  display: inline-block;
+  font-family: 'homestead-one', 'homestead-regular';
+}
+/* line 250, ../sass/theme.scss */
+.reveal .north--wordmark:before {
+  content: 'north';
+  text-transform: uppercase;
+  font-family: 'homestead-two', 'homestead-regular';
+  color: #559abe;
+  position: absolute;
+  left: 0;
+  top: -0.065em;
+}
+/* line 259, ../sass/theme.scss */
+.reveal .north--wordmark:after {
+  content: 'north';
+  text-transform: uppercase;
+  font-family: 'homestead-three', 'homestead-regular';
+  color: #6db1d4;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* line 271, ../sass/theme.scss */
+h1 a.wordmark {
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  font-family: 'ostrich-wordmark';
+  background: none !important;
+  text-shadow: none !important;
+}
+/* line 278, ../sass/theme.scss */
+h1 a.wordmark .wordmark--4 {
+  margin-left: -.10em;
+}
+
+.cs,
+.cs p,
+.cs li {
+  background-color: #fede32;
+  color: #061b25;
+  font-family: 'pt';
+}
+
+.cs h1,
+.cs h2,
+.cs h3,
+.cs h4,
+.cs h5 {
+  color: #061b25;
+  font-family: 'ostrich';
+  letter-spacing: .1em;
+  font-size: 2.11em;
+}
+
+.cs h4 {
+  font-size: 1em;
+}

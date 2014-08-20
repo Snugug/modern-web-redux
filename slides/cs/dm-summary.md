@@ -1,0 +1,1 @@
+> A domain model is a conceptual model of all the topics related to a specific problem. It describes the various entities, their attributes, their roles, and relationships, plus the constraints that govern the problem domain.

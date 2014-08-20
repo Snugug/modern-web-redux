@@ -185,4 +185,199 @@
       }
     }
   ]
+
+
+
+  ,{
+    "filename": "medium/intro.md",
+      "attr": {
+        "id": "the-web-the-medium"
+    }
+  },
+  [
+    {
+      "filename": "medium/medium.html",
+        "attr": {
+          "id": "new-medium"
+      }
+    }
+    ,{
+      "filename": "medium/extension.html",
+        "attr": {
+          "id": "fluid-medium"
+      }
+    }
+    ,{
+      "filename": "medium/unstable-medium.html",
+        "attr": {
+          "id": "unstable-medium"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "medium/constraints/dont-control.html",
+        "attr": {
+          "id": "cant-control"
+      }
+    }
+    ,{
+      "filename": "medium/constraints/fantasies.html",
+        "attr": {
+          "id": "control-fantasies"
+      }
+    }
+  ],
+
+  [
+    {
+    "filename": "medium/constraints/want-content.html",
+      "attr": {
+        "id": "want-content"
+      }
+    }
+    ,{
+      "filename": "medium/constraints/want-now.html",
+        "attr": {
+          "id": "want-now"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "medium/design/intro.md",
+        "attr": {
+          "id": "knowing-basics"
+      }
+    }
+    ,{
+      "filename": "medium/design/focus-constraint.html",
+        "attr": {
+          "id": "focus-constraint"
+      }
+    }
+    ,{
+      "filename": "medium/design/user-centered-design.html",
+        "attr": {
+          "id": "user-centered-design"
+      }
+    }
+  ]
+
+  ,{
+    "filename": "cs/cs.md",
+      "attr": {
+        "id": "content-strategy"
+    }
+  },
+
+  {
+    "filename": "cs/north/north.html",
+    "attr": {
+      "id": "north",
+      "data-state": "north"
+    }
+  },
+  [
+    {
+      "filename": "cs/north/cs1.html",
+      "attr": {
+        "id": "what-is-cs-1",
+        "data-state": "north"
+      }
+    },
+    {
+      "filename": "cs/north/cs2.html",
+      "attr": {
+        "id": "what-is-cs-2",
+        "data-state": "north"
+      }
+    },
+    {
+      "filename": "cs/north/cs3.html",
+      "attr": {
+        "id": "what-is-cs-3",
+        "data-state": "north"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "cs/model.md",
+      "attr": {
+        "id": "content-model",
+        "data-state": "cs"
+      }
+    },
+    {
+      "filename": "cs/model-components.md",
+      "attr": {
+        "id": "content-model-parts",
+        "data-state": "cs"
+      }
+    },
+    {
+      "filename": "cs/model-value.md",
+      "attr": {
+        "id": "content-model-value",
+        "data-state": "cs"
+      }
+    },
+    {
+      "filename": "cs/model-example-1.md",
+      "attr": {
+        "id": "content-model-example-article",
+        "data-state": "cs"
+      }
+    },
+    {
+      "filename": "cs/model-example-2.md",
+      "attr": {
+        "id": "content-model-example-benefits",
+        "data-state": "cs"
+      }
+    },
+    {
+      "filename": "cs/model-example-3.md",
+      "attr": {
+        "id": "content-model-example-attributes",
+        "data-state": "cs"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "cs/ia.md",
+      "attr": {
+        "id": "content-ia",
+        "data-state": "cs"
+      }
+    },
+    {
+      "filename": "cs/ia-components.md",
+      "attr": {
+        "id": "content-ia-parts",
+        "data-state": "cs"
+      }
+    },
+    {
+      "filename": "cs/ia-revise.md",
+      "attr": {
+        "id": "content-ia-revise",
+        "data-state": "cs"
+      }
+    },
+    {
+      "filename": "cs/ia-example.html",
+      "attr": {
+        "id": "content-ia-example",
+        "data-state": "cs"
+      }
+    }
+  ]
+
 ]

@@ -1,0 +1,1 @@
+![Example Political Junkie User Persona](http://snugug.github.io/images/user-persona.png)

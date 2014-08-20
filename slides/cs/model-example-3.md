@@ -1,0 +1,1 @@
+![Content Model Attributes Example](http://snugug.github.io/images/model-attributes.png)
