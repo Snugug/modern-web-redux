@@ -2,6 +2,13 @@
   "index.md",
 
   {
+    "filename": "slides.html",
+      "attr": {
+        "id": "slides"
+    }
+  },
+
+  {
     "filename": "dao/intro.md",
     "attr": {
       "id": "dao",
@@ -32,6 +39,12 @@
       "filename": "dao/ritual/borrowing.html",
         "attr": {
           "id": "borrowing"
+      }
+    }
+    ,{
+      "filename": "dao/ritual/radio-tv.html",
+        "attr": {
+          "id": "radio-tvç"
       }
     }
     ,{
@@ -467,8 +480,240 @@
   ,{
     "filename": "blank.html",
       "attr": {
-        "id": "can-do-it",
-        "data-state": "can-do-it"
+        "id": "responsive-web-design",
+        "data-state": "responsive-web-design"
+    }
+  },
+
+  [
+    {
+      "filename": "rwd/brad/past.md",
+        "attr": {
+          "id": "not-the-web",
+          "data-state": "brad"
+      }
+    }
+    ,{
+      "filename": "rwd/brad/present.md",
+        "attr": {
+          "id": "is-the-web",
+          "data-state": "brad"
+      }
+    }
+    ,{
+      "filename": "rwd/brad/future.md",
+        "attr": {
+          "id": "will-be-the-web",
+          "data-state": "brad"
+      }
+    }
+    ,{
+      "filename": "rwd/brad/user-experiences.html",
+        "attr": {
+          "id": "point-of-rwd"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "rwd/not-point/not-about.md",
+        "attr": {
+          "id": "rwd-not-about"
+      }
+    }
+    ,{
+      "filename": "rwd/not-point/squishy.html",
+        "attr": {
+          "id": "squishy-sites"
+      }
+    }
+    ,{
+      "filename": "rwd/not-point/devices.html",
+        "attr": {
+          "id": "device-specitic"
+      }
+    }
+    ,{
+      "filename": "rwd/not-point/all-of-our-content.html",
+        "attr": {
+          "id": "all-of-our-content"
+      }
+    }
+    ,{
+      "filename": "rwd/not-point/pictures.html",
+        "attr": {
+          "id": "pictures-of-sites"
+      }
+    }
+    ,{
+      "filename": "rwd/not-point/treachery-of-images.md",
+        "attr": {
+          "id": "treachery-of-images",
+          "data-state": "treachery"
+      }
+    }
+    ,{
+      "filename": "rwd/not-point/systems-of-design.html",
+        "attr": {
+          "id": "systems-of-design"
+      }
+    }
+  ]
+
+
+  ,{
+    "filename": "design/intro.md",
+      "attr": {
+        "id": "designing-the-modern-web"
+    }
+  }
+  ,{
+    "filename": "design/steps.html",
+      "attr": {
+        "id": "steps-to-design"
+    }
+  },
+
+  [
+    {
+      "filename": "design/systems/bad-page.html",
+        "attr": {
+          "id": "dont-design-pages"
+      }
+    }
+    ,{
+      "filename": "design/systems/guides.html",
+        "attr": {
+          "id": "style-guides"
+      }
+    }
+    ,{
+      "filename": "design/systems/patterns.html",
+        "attr": {
+          "id": "design-patterns"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "design/pe/pe.html",
+        "attr": {
+          "id": "progressive-enhancement"
+      }
+    }
+    ,{
+      "filename": "design/pe/grading.html",
+        "attr": {
+          "id": "grading-patterns"
+      }
+    }
+    ,{
+      "filename": "design/pe/grad-c.md",
+        "attr": {
+          "id": "grade-c"
+      }
+    }
+    ,{
+      "filename": "design/pe/grad-b.md",
+        "attr": {
+          "id": "grade-b"
+      }
+    }
+    ,{
+      "filename": "design/pe/grad-a.md",
+        "attr": {
+          "id": "grade-a"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "design/mobile/intro.html",
+        "attr": {
+          "id": "mobile-first"
+      }
+    }
+    ,{
+      "filename": "design/mobile/zeldman-mobile.html",
+        "attr": {
+          "id": "zeldman-mobile"
+      }
+    }
+    ,{
+      "filename": "design/mobile/not-devices.html",
+        "attr": {
+          "id": "mobile-first-not-devices"
+      }
+    }
+    ,{
+      "filename": "design/mobile/luke-1.html",
+        "attr": {
+          "id": "one-eye-one-thumb-1"
+      }
+    }
+    ,{
+      "filename": "design/mobile/luke-2.html",
+        "attr": {
+          "id": "one-eye-one-thumb-2"
+      }
+    }
+    ,{
+      "filename": "design/mobile/expand.html",
+        "attr": {
+          "id": "mobile-first-everywhere"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "design/browser/web-design.html",
+        "attr": {
+          "id": "design-in-browser"
+      }
+    }
+    ,{
+      "filename": "design/browser/move-to-browser.html",
+        "attr": {
+          "id": "move-to-browser"
+      }
+    }
+    ,{
+      "filename": "design/browser/not-photoshop.html",
+        "attr": {
+          "id": "photoshop-not-web-tool"
+      }
+    }
+    ,{
+      "filename": "design/browser/style-prototypes.html",
+        "attr": {
+          "id": "style-prototypes"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "conclusion.md",
+        "attr": {
+          "id": "wrap-up"
+      }
+    }
+    ,{
+      "filename": "summary.html",
+        "attr": {
+          "id": "in-summary"
+      }
+    }
+  ]
+
+  ,{
+    "filename": "thanks.html",
+      "attr": {
+        "id": "thank-you"
     }
   }
 
