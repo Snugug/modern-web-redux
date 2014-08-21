@@ -378,6 +378,99 @@
         "data-state": "cs"
       }
     }
+  ],
+
+  {
+    "filename": "cs/priorities.html",
+      "attr": {
+        "id": "content-strategy-for-priorities",
+        "data-state": "cs"
+    }
+  },
+
+  [
+    {
+      "filename": "perf/intro.md",
+        "attr": {
+          "id": "performance"
+      }
+    }
+    ,{
+      "filename": "perf/about.html",
+        "attr": {
+          "id": "payload-page-perf"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "perf/payload/intro.md",
+        "attr": {
+          "id": "payload-performance"
+      }
+    }
+    ,{
+      "filename": "perf/payload/to-screen.html",
+        "attr": {
+          "id": "to-screen-perf"
+      }
+    }
+    ,{
+      "filename": "perf/payload/cost.html",
+        "attr": {
+          "id": "perf-cost"
+      }
+    }
+    ,{
+      "filename": "perf/payload/feather.html",
+        "attr": {
+          "id": "perf-feather"
+      }
+    }
+    ,{
+      "filename": "perf/payload/waterfall.html",
+        "attr": {
+          "id": "payload-check"
+      }
+    }
+  ],
+
+  [
+    {
+      "filename": "perf/page/intro.md",
+        "attr": {
+          "id": "page-performance"
+      }
+    }
+    ,{
+      "filename": "perf/page/on-screen.html",
+        "attr": {
+          "id": "on-screen-perf"
+      }
+    }
+    ,{
+      "filename": "perf/page/leave.html",
+        "attr": {
+          "id": "bad-perf-leave"
+      }
+    }
+    ,{
+      "filename": "blank.html",
+        "attr": {
+          "id": "annoyed-cookie",
+          "data-state": "cookie"
+      }
+    }
   ]
+
+  ,{
+    "filename": "blank.html",
+      "attr": {
+        "id": "can-do-it",
+        "data-state": "can-do-it"
+    }
+  }
+
 
 ]

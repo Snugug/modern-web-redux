@@ -5,7 +5,7 @@
 @import url(http://snugug.github.io/fonts/pt.css);
 
 .cs a {
-  color: inherit;
+  color: #061b25;
   text-decoration: none;
   text-decoration: none;
   background-repeat: repeat-x;
@@ -87,10 +87,6 @@
   text-align: left;
 }
 
-/* line 147, ../sass/theme.scss */
-.reveal .controls div.navigate-left {
-  border-right-color: #3c3c3c;
-}
 /* line 151, ../sass/theme.scss */
 .intro .reveal .controls div.navigate-left {
   border-right-color: white;
@@ -106,10 +102,6 @@
 /* line 151, ../sass/theme.scss */
 .domain .reveal .controls div.navigate-left {
   border-right-color: #97e52d;
-}
-/* line 147, ../sass/theme.scss */
-.reveal .controls div.navigate-right {
-  border-left-color: #3c3c3c;
 }
 /* line 151, ../sass/theme.scss */
 .intro .reveal .controls div.navigate-right {
@@ -127,10 +119,6 @@
 .domain .reveal .controls div.navigate-right {
   border-left-color: #97e52d;
 }
-/* line 147, ../sass/theme.scss */
-.reveal .controls div.navigate-up {
-  border-bottom-color: #3c3c3c;
-}
 /* line 151, ../sass/theme.scss */
 .intro .reveal .controls div.navigate-up {
   border-bottom-color: white;
@@ -146,10 +134,6 @@
 /* line 151, ../sass/theme.scss */
 .domain .reveal .controls div.navigate-up {
   border-bottom-color: #97e52d;
-}
-/* line 147, ../sass/theme.scss */
-.reveal .controls div.navigate-down {
-  border-top-color: #3c3c3c;
 }
 /* line 151, ../sass/theme.scss */
 .intro .reveal .controls div.navigate-down {
@@ -183,6 +167,21 @@
 /* line 169, ../sass/theme.scss */
 .domain .state-background {
   background: #97e52d;
+}
+
+.state-background {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover !important;
+}
+
+.cookie .state-background {
+  background-image: url('http://snugug.github.io/images/cookie.gif');
+}
+
+.can-do-it .state-background {
+  background-image: url('http://snugug.github.io/images/icandozat.gif');
+  background-size: initial !important;
 }
 
 /* line 174, ../sass/theme.scss */
@@ -220,8 +219,12 @@
 
 .north blockquote,
 .cs blockquote {
-  border-color: inherit;
+  border-color: #061b25;
   font-size: 1.5em;
+}
+
+.cs cite a {
+  background-position: 0 0.825em !important;
 }
 
 /* line 222, ../sass/theme.scss */
