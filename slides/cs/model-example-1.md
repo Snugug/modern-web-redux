@@ -1,1 +1,0 @@
-![Content Model Title Example](http://snugug.github.io/images/model-title.png)

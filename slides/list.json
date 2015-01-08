@@ -340,21 +340,14 @@
       }
     },
     {
-      "filename": "cs/model-example-1.md",
+      "filename": "cs/model-example-1.html",
       "attr": {
         "id": "content-model-example-article",
         "data-state": "cs"
       }
     },
     {
-      "filename": "cs/model-example-2.md",
-      "attr": {
-        "id": "content-model-example-benefits",
-        "data-state": "cs"
-      }
-    },
-    {
-      "filename": "cs/model-example-3.md",
+      "filename": "cs/model-example-2.html",
       "attr": {
         "id": "content-model-example-attributes",
         "data-state": "cs"
