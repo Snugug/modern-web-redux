@@ -682,15 +682,24 @@
       }
     }
     ,{
+      "filename": "design/browser/style-prototypes.html",
+        "attr": {
+          "id": "style-prototypes"
+      }
+    }
+  ],
+
+  [
+    {
       "filename": "design/browser/not-photoshop.html",
         "attr": {
           "id": "photoshop-not-web-tool"
       }
     }
     ,{
-      "filename": "design/browser/style-prototypes.html",
+      "filename": "design/browser/jobs.html",
         "attr": {
-          "id": "style-prototypes"
+          "id": "how-it-works"
       }
     }
   ],
