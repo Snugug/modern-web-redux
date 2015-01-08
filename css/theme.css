@@ -75,6 +75,7 @@
   box-shadow: none;
   font-size: .55em;
   padding-top: 1em;
+  white-space: pre-wrap;
 }
 
 .reveal .codemark {
